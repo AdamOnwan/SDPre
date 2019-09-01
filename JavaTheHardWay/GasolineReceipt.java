@@ -4,7 +4,7 @@ public class GasolineReceipt {
     System.out.println( "|                        |" );
     System.out.println( "|      CORNER STORE      |" );
     System.out.println( "|                        |" );
-    System.out.println( "| 2015-03-29  04:38PM    |" );
+    System.out.println( "| 2019-08-31  11:13PM    |" );
     System.out.println( "|                        |" );
     System.out.println( "| Gallons:       10.870  |" );
     System.out.println( "| Price/gallon: $ 2.089  |" );
