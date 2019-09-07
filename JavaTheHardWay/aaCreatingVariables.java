@@ -25,7 +25,7 @@ public class aaCreatingVariables {
     System.out.println( "The experiment took" + seconds + "seconds." );
     System.out.println( "A favorite irrational # is Euler's number: " + e);
     System.out.println( "Hopefully you have more than $" + checking + "!" );
-    System.out.println( "My name's " + title + " " + firstName + lastName );
-    System.out.println( z + big + title + lastName + jobTitle + "from" + addy);
+    System.out.println( "My name's " + title + " " + firstName + " " + lastName );
+    System.out.println( big + " " + title + lastName + " " + jobTitle + z + " from " + addy);
   }
 }
